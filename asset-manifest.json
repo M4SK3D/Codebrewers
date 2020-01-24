@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Codebrewers/static/css/main.a5968fce.chunk.css",
-    "main.js": "/Codebrewers/static/js/main.322d0943.chunk.js",
-    "main.js.map": "/Codebrewers/static/js/main.322d0943.chunk.js.map",
+    "main.js": "/Codebrewers/static/js/main.21581a47.chunk.js",
+    "main.js.map": "/Codebrewers/static/js/main.21581a47.chunk.js.map",
     "runtime-main.js": "/Codebrewers/static/js/runtime-main.9f35241f.js",
     "runtime-main.js.map": "/Codebrewers/static/js/runtime-main.9f35241f.js.map",
     "static/js/2.2310a228.chunk.js": "/Codebrewers/static/js/2.2310a228.chunk.js",
     "static/js/2.2310a228.chunk.js.map": "/Codebrewers/static/js/2.2310a228.chunk.js.map",
     "index.html": "/Codebrewers/index.html",
-    "precache-manifest.1599c7e83c750f7d2943224a363e5d34.js": "/Codebrewers/precache-manifest.1599c7e83c750f7d2943224a363e5d34.js",
+    "precache-manifest.7292b9e6dc46de66a95538d1872ac745.js": "/Codebrewers/precache-manifest.7292b9e6dc46de66a95538d1872ac745.js",
     "service-worker.js": "/Codebrewers/service-worker.js",
     "static/css/main.a5968fce.chunk.css.map": "/Codebrewers/static/css/main.a5968fce.chunk.css.map",
     "static/js/2.2310a228.chunk.js.LICENSE": "/Codebrewers/static/js/2.2310a228.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9f35241f.js",
     "static/js/2.2310a228.chunk.js",
     "static/css/main.a5968fce.chunk.css",
-    "static/js/main.322d0943.chunk.js"
+    "static/js/main.21581a47.chunk.js"
   ]
 }
