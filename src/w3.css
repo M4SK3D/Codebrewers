@@ -1,0 +1,10 @@
+﻿w3sidebar {
+	height:100%;
+	width:300px;
+	top:0;
+	background-color:#f1f1f1;
+	position:fixed!important;
+	z-index:1;
+	border: 1px solid #999;
+	overflow:auto
+}
